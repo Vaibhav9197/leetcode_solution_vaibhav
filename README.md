@@ -26,5 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
