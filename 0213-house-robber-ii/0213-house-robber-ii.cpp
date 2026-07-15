@@ -12,14 +12,26 @@ public:
 
         return dp[i][prev]=ans;
     }
-    
+    void print(int i,vector<int>& nums,int prev){
+        if(i==n)return;
+        if(prev ==0 && nums[i]+ solve(i+1,nums,1)== dp[i][prev]){
+            cout<<nums[i]<<" ";
+            print(i+1,nums,1);
+        }else{
+            print(i+1,nums,0);
+        }
+        
+    }
     int rob(vector<int>& nums) {
         n = nums.size();
      if(n==1)return nums[0];
         memset(dp,-1,sizeof(dp));
         int case1 = solve(1,nums,0);
+        print(1,nums,0);
+        cout<<endl;
         n=n-1;memset(dp, -1, sizeof(dp));
         int case2 = solve(0,nums,0);
+        print(0,nums,0);
         return max(case1,case2);
     }
 };
