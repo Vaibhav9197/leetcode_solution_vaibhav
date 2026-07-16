@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
