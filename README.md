@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 ## Math
