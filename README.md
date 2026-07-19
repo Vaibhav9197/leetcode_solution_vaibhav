@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +68,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
