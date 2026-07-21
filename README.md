@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
