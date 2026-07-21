@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0132-palindrome-partitioning-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0132-palindrome-partitioning-ii) |
