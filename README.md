@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0132-palindrome-partitioning-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
