@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,15 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
+| [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
+| [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Number Theory
+|  |
+| ------- |
+| [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 <!---LeetCode Topics End-->
