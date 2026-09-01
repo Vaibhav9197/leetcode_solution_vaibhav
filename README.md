@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Number Theory
