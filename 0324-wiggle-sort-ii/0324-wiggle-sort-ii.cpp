@@ -10,12 +10,7 @@ public:
         for(int i =((n+1)/2); i>0; i--){
             even.push_back(nums[i-1]);
         }
-        for(int i =0; i<odd.size(); i++){
-           cout<<odd[i];
-        }cout<<endl;
-        for(int i =0; i<even.size(); i++){
-            cout<<even[i];
-        }
+        
         int i =0,j=0,k=0;
         while(k<n){
            if(i<even.size()) nums[k] = even[i];k++;
