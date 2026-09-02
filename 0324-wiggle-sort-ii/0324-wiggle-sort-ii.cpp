@@ -1,21 +1,26 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<int>odd,even;
-        int n = nums.size();
-        for(int i =n; i>((n+1)/2); i--){
-            odd.push_back(nums[i-1]);
-        }
-        for(int i =((n+1)/2); i>0; i--){
-            even.push_back(nums[i-1]);
-        }
-        
-        int i =0,j=0,k=0;
-        while(k<n){
-           if(i<even.size()) nums[k] = even[i];k++;
-            if(j<odd.size())nums[k] = odd[j]; 
-            i++,j++,k++;
-        }
+       int n = nums.size();
+       auto mid = nums.begin() + n/2;
+       nth_element(nums.begin(),mid,nums.end());
+
+       int midv = *mid;
+
+       int i =0,j=0,k = n-1;
+
+       #define A(i) nums[((1+2*i)) %(n|1)]
+
+       while(j<=k){
+            if(A(j)>midv) {
+                swap(A(j),A(i));
+                i++,j++;
+                }
+            else if(A(j)<midv) {
+                swap(A(j),A(k));
+                k--;
+                }
+            else j++;
+       }
     }
 };
