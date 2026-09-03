@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0132-palindrome-partitioning-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
