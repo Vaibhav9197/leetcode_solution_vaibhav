@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 ## Number Theory
 |  |
 | ------- |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0324-wiggle-sort-ii) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
