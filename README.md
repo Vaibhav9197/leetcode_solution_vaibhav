@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
+| [3903-smallest-stable-index-i](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0621-task-scheduler) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
