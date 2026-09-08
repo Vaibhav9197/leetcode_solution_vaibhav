@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0141-linked-list-cycle) |
 | [0621-task-scheduler](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0621-task-scheduler) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -183,9 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
