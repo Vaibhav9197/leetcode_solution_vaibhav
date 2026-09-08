@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
 | [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
@@ -185,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
