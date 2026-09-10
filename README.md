@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0983-minimum-cost-for-tickets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
