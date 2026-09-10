@@ -10,7 +10,6 @@ public:
                 while(head+1 <n && (zero <k || nums[head+1]==1)){
                     head++;
                     if(nums[head]==0)zero++;
-                    else continue;
                 }
                 ans = max(ans,head-tail+1);
                 
