@@ -5,7 +5,7 @@ public:
         int mp[26]={0};
         int head=-1, tail =0;
         int n = s.length();
-        int maxi = INT_MIN;
+        int maxi = 0;
         int ans =0;
         while(tail<n){
             while(head+1<n && head+2-tail - max(maxi,mp[s[head+1]-'A']+1) <=k){
