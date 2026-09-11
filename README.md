@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -131,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3483-unique-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
