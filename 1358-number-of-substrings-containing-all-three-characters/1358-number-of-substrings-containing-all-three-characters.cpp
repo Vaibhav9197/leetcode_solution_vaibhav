@@ -1,12 +1,23 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int count[3] = {0,0,0};int result =0; int i =0; int n = s.length();
-        for(int j =0; j<n; j++){
-            ++count[s[j]-'a'];
-            while(count[0] && count[1] && count[2]) --count[s[i++]-'a'];
-            result+=i;
+        int n = s.length();
+        int mp[5]={0}; int size =0;
+        int head = -1; int tail =0;
+        int ans =0;
+
+        while(tail<n){
+            while(head+1<n && (size <3)){
+                if(mp[s[head+1]-'a']==0)size++;
+                mp[s[++head]-'a']++;
+            }
+            if(size ==3)ans+=(n-head);
+            mp[s[tail]-'a']--;
+            if(mp[s[tail]-'a']==0){
+                size--;
+            }
+            tail++;
         }
-        return result;
+        return ans;
     }
 };
