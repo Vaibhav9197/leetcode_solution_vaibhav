@@ -14,7 +14,6 @@ public:
                 sum+=nums[head];
             }
             if(sum==goal) ans+=min(trail,head-tail)+1;
-            cout<<tail<<" "<<ans<<endl;
             if(nums[tail]==1)sum--;
             tail++;
         }
