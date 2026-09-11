@@ -17,9 +17,7 @@ public:
                 }
             }
         }
-        for(auto x:st){
-            cout<<x[0]<<x[1]<<x[2]<<endl;
-        }
+
         return st.size();
     }
 };
