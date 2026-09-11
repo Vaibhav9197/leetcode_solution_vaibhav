@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3483-unique-3-digit-even-numbers) |
 | [3850-count-sequences-to-k](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3850-count-sequences-to-k) |
 | [3903-smallest-stable-index-i](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
