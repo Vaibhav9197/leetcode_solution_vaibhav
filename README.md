@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0424-longest-repeating-character-replacement) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
@@ -265,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
