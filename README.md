@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0881-boats-to-save-people) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0931-minimum-falling-path-sum) |
@@ -292,9 +294,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0494-target-sum) |
 | [0956-tallest-billboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0956-tallest-billboard) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0494-target-sum) |
 | [0956-tallest-billboard](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0956-tallest-billboard) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Vaibhav9197/leetcode_solution_vaibhav/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
