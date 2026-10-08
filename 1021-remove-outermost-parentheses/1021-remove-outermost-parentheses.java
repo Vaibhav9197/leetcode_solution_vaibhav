@@ -8,10 +8,19 @@ class Solution {
         for(int i=0 ; i<s.length();i++)
         {
             char ch = s.charAt(i);
-            if(ch == '(') count++;
-            else if(ch ==')') count--;
-            if(count > 1 && ch == '(') st.append(ch);
-            else if(count >=1 && ch == ')')  st.append(ch);
+            if(ch == '(') {
+                count++;
+                if(count > 1)
+                st.append(ch);
+                
+            }
+            else if(ch ==')')  {
+                if(count == 1){}
+                else
+                st.append(ch);
+                count--;
+            }
+           
         }
 
         return st.toString();
